@@ -1,0 +1,16 @@
+body{
+    background-image: url('https://i.etsystatic.com/28921914/r/il/9f3258/3772552628/il_1080xN.3772552628_foo7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header{
+    min-height: 10vh;
+}
+main{
+    min-height: 80vh;
+}
+footer{
+    min-height: 10vh;
+}
